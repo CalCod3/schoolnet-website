@@ -15,7 +15,7 @@ function AboutComponent() {
                 <h1>SchoolNet</h1>
                 <p>
                   We are dedicated to providing solutions that enable human
-                  interaction within spaces that cater to people'&apos;'s safety and
+                  interaction within spaces that cater to people&apos;s safety and
                   well-being. Working primarily with education institutions across
                   Africa, we provide technologies that allow schools to manage
                   attendance and traffic of students.
